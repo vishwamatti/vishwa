@@ -21,7 +21,7 @@
         
         <ext:Toolbar ID="Toolbar1" runat="server">
             <Items>
-                <ext:Button ID="Button1" runat="server" Text="Home" />
+                <ext:Button ID="Button1"  TExt = "Button" runat="server" Text="Home" />
                 
                 <ext:Button ID="Button2" runat="server" Text="Products">
                     <Menu>
