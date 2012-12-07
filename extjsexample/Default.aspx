@@ -43,7 +43,7 @@
                     </Menu>
                 </ext:Button>
                 
-               
+               <ext:Button ID="Button1"  TExt = "Button" runat="server" Text="Home" />
             </Items>
         </ext:Toolbar>
     </form>
